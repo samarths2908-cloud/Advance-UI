@@ -3,7 +3,7 @@ import { Mic, Volume2, Play, CheckCircle, BarChart, BrainCircuit, Activity, Time
 import Webcam from 'react-webcam';
 
 // PASTE YOUR OPENAI API KEY HERE
-const OPENAI_API_KEY = process.env.API_KEY;
+const OPENAI_API_KEY = "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";
 
 const VisualizerStyles = () => (
   <style>
